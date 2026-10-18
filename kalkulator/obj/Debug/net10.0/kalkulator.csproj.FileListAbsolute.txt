@@ -1,0 +1,15 @@
+z:\podstawyProgramowania\kalkulator\obj\Debug\net10.0\kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+z:\podstawyProgramowania\kalkulator\obj\Debug\net10.0\kalkulator.AssemblyInfoInputs.cache
+z:\podstawyProgramowania\kalkulator\obj\Debug\net10.0\kalkulator.AssemblyInfo.cs
+z:\podstawyProgramowania\kalkulator\obj\Debug\net10.0\kalkulator.csproj.CoreCompileInputs.cache
+z:\podstawyProgramowania\kalkulator\bin\Debug\net10.0\kalkulator.exe
+z:\podstawyProgramowania\kalkulator\bin\Debug\net10.0\kalkulator.deps.json
+z:\podstawyProgramowania\kalkulator\bin\Debug\net10.0\kalkulator.runtimeconfig.json
+z:\podstawyProgramowania\kalkulator\bin\Debug\net10.0\kalkulator.dll
+z:\podstawyProgramowania\kalkulator\bin\Debug\net10.0\kalkulator.pdb
+z:\podstawyProgramowania\kalkulator\obj\Debug\net10.0\kalkulator.dll
+z:\podstawyProgramowania\kalkulator\obj\Debug\net10.0\refint\kalkulator.dll
+z:\podstawyProgramowania\kalkulator\obj\Debug\net10.0\kalkulator.pdb
+z:\podstawyProgramowania\kalkulator\obj\Debug\net10.0\kalkulator.genruntimeconfig.cache
+z:\podstawyProgramowania\kalkulator\obj\Debug\net10.0\ref\kalkulator.dll
+Z:\podstawyProgramowania\kalkulator\obj\Debug\net10.0\kalkulator.csproj.Up2Date
