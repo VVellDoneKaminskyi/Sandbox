@@ -1,0 +1,14 @@
+---
+
+name: test_workflow
+
+on: [push]
+jobs:
+  show_server_info:
+    runs-on: ubuntu-latest
+    steps:
+      -run: whoami
+      -run: ls -la
+      -run: pwd
+
+...
