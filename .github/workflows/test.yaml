@@ -7,8 +7,8 @@ jobs:
   show_server_info:
     runs-on: ubuntu-latest
     steps:
-      -run: whoami
-      -run: ls -la
-      -run: pwd
+      - run: whoami
+      - run: ls -la
+      - run: pwd
 
 ...
