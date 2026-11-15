@@ -1,2 +1,3 @@
 Some text in text file on branch test.
 New text , and new merge pull request after first merging.
+First test of test.yaml file.
