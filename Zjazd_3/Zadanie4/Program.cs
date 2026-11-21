@@ -8,6 +8,6 @@
     {
         if (Convert.ToBoolean(i % 2)) n++; else p++;
     }
-    Console.WriteLine($"Liczb parzystych: {p}\nLiczb nieparzystych{n}");
+    Console.WriteLine($"Liczb parzystych: {p}\nLiczb nieparzystych: {n}");
 
 }
